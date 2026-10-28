@@ -1,17 +1,7 @@
-# praktikum_pemmob_flutter2
 
-A new Flutter project.
+# Praktikum Pemrograman Mobile
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2ad3a06-1e40-4684-977b-fc3fe3b49575" width="350" alt="Tampilan Aplikasi">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
